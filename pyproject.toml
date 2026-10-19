@@ -36,4 +36,4 @@ async = ["httpx>=0.23.0"]
 [project.urls]
 Homepage = "https://private.tempmailc.com"
 Documentation = "https://private.tempmailc.com/docs"
-Repository = "https://github.com/tempmailapi/tempmail-api-python"
+Repository = "https://github.com/theabd2oo3/tempmailc-python"
